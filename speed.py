@@ -1,4 +1,4 @@
-
+from Decors import speedTest
 
 @speedTest(iterations=10)
 def search():
